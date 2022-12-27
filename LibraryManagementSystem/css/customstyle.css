@@ -1,0 +1,24 @@
+﻿.nav-background {
+    background-image: linear-gradient(#ff9900, #ff6600)
+}
+
+nav a {
+    color: #ffffff
+}
+
+.footerLinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerLinks:hover {
+        color: aqua
+    }
+
+#footer1 {
+    background-image: linear-gradient(#ff9900, #ff0000)
+}
+
+#footer2 {
+    background-image: linear-gradient(#ff9900, #ff6600)
+}
